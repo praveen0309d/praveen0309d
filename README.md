@@ -1,119 +1,181 @@
-<!--
-  README for Praveen D — concise, professional, and GitHub-ready.
-  Replace placeholders: YOUR_GITHUB_USERNAME, banner.png, avatar.png, your.email@example.com, YOUR_LINKEDIN, YOUR_PORTFOLIO
--->
-
 <p align="center">
-  <img src="https://github.com/praveen0309d/foruser/blob/main/banner2.jpg" alt="banner" width="100%" style="max-height:320px; object-fit:cover"/>
+  <img src="https://github.com/praveen0309d/praveen0309d/blob/main/banner2.jpg" alt="banner" width="100%" style="border-radius: 20px; border: 2px solid #00ffb6; box-shadow: 0 0 30px rgba(0,255,182,0.3);"/>
 </p>
 
-# 👋 Hello, I'm **Praveen D**
-**Pre-Final Year — B.Tech (AI & Data Science)** · Full-Stack Developer · AI & Data Science Enthusiast  
-Chennai, Tamil Nadu · CGPA: **7.8**
+<div align="center">
+  
+# ⚡ **PRAVEEN D** ⚡
 
-[![Visitor](https://visitor-badge.glitch.me/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)](https://github.com/YOUR_GITHUB_USERNAME)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00FFB6&width=600&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Building+ML+and+Web+solutions)
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=500&color=00FFB6&background=0D111700&center=true&vCenter=true&width=600&lines=PRE-FINAL+YEAR+%40+AI%26DS;FULL+STACK+DEV+%7C+REACT+%7C+SPRING;3x+PROJECT+EXPO+WINNER;40+DAY+AI+TRAINING+%40+INFOSYS;7.8+CGPA+AND+CLIMBING" alt="Typing SVG" />
 
----
+<img src="https://komarev.com/ghpvc/?username=praveen0309d&label=👀%20PROFILE%20VIEWS&color=00ffb6&style=for-the-badge&base=1000" width="300"/>
 
-## 🔎 About
-I’m pursuing a Bachelor’s in **Artificial Intelligence & Data Science** at Velammal Engineering College. I build full-stack web apps (React + Spring Boot + MySQL) and experiment with ML models and data-driven solutions. I enjoy competitive hackathons, project expos, and hands-on training.
 
----
+## 🚀 **THE VIBE** 
 
-## 🎓 Education (short)
-- **B.Tech — Artificial Intelligence & Data Science**  
-  Velammal Engineering College, Anna University — *Sep 2023 → Present* · **CGPA: 7.8**
-
-- **HSC (12th) — Computer Science & Mathematics**  
-  Sri Sankara Matric Hr. Sec. School, Peralam — *Completed 2023* · **86.04%**
-
-- **SSLC (10th)**  
-  Sri Sankara Matric Hr. Sec. School — *Completed 2020* · Status: Completed
-
----
-
-## 🧰 Core Skills & Technologies
-
-**Languages & Frameworks**  
-Java · Kotlin · Python · JavaScript · React · Spring Boot · Flask
-
-**Databases & Storage**  
-MySQL · MongoDB · Firebase
-
-**ML & Data**  
-Pandas · scikit-learn · basic NLP · model prototyping
-
-**Tools & DevOps**  
-Git / GitHub · Docker · Postman · IntelliJ / VS Code
-
-**Highlights**  
-- Full-stack development (React + Spring Boot)  
-- Model prototyping for AI projects  
-- Participation in hackathons & college expos
+    STATUS   │ ACTIVE
+    STANDING │ PRE-FINAL YEAR
+    DOMAIN   │ ARTIFICIAL INTELLIGENCE
+    ACADEMICS│ 7.8 CGPA
+    BASE     │ CHENNAI
+    
+    PHILOSOPHY
+    ───────────────────
+    Build fast • Break things • Win
+    
+    CURRENT
+    ───────────────────
+    • Full-Stack Development
+    • Hackathon Mode: ON
+</div>
 
 ---
 
-## 🚀 Selected Projects & Prizes
+## 🎨 **THE STATS CARD**
 
-### ClueCare — School/Community Health Project  
-- **Prize:** 2nd Prize @ Velammal Institute Project Expo (₹3,000)  
-- Tech: React · Flask · MongoDB · Basic AI features  
-- Link: `https://github.com/YOUR_GITHUB_USERNAME/cluecare` *(replace)*
-
-### Velammal College Project — Demo App  
-- **Prize:** 3rd Prize @ Velammal Engineering College Project Expo  
-- Tech: React · Spring Boot · MySQL
-
-### Gojan School Project  
-- **Prize:** 1st Prize @ Gojan School Project Expo (₹2,000)  
-- Focus: Design & implementation, team collaboration
-
-> View projects: `https://github.com/YOUR_GITHUB_USERNAME?tab=repositories`
-
----
-
-## 🏆 Training & Notable Achievements
-- **AI Chatbot Training (Infosys Springboard)** — 40-day practical training (Sep–Nov 2025)  
-- Multiple hackathon participations (24-hr hackathons, Codeathon events)  
-- Several college project expo awards (listed above)
-
----
-
-## 📜 Selected Certifications
-- MongoDB University — Database Fundamentals & Aggregation  
-- Infosys Springboard — Full Stack & Data Science modules  
-- NPTEL (IIT) — DSA & Software Engineering (elite certification)  
-- IBM — Artificial Intelligence Fundamentals
-
-*(I have additional course certificates — can provide links on request.)*
-
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" height="150"/>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=praveen0309d&show_icons=true&theme=radical&bg_color=0D1117&title_color=00ffb6&icon_color=ff79c6&border_color=00ffb6&border_radius=15" width="52%"/>
+  </a>
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen0309d&theme=black-ice&background=0D1117&ring=00ffb6&fire=ff79c6&currStreakLabel=00ffb6&border=00ffb6&border_radius=15" width="45%"/>
+  </a>
 </p>
 
-
-
----
-
-## 📫 Contact
-- **Email:** your.email@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN  
-- **Portfolio:** https://YOUR_PORTFOLIO
-
 <p align="center">
-  <a href="mailto:praveen002006@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/praveen-d-52181a2ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  &nbsp;
-  <a href="https://github.com/praveen0309d"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-View-black?style=for-the-badge&logo=github"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen0309d&layout=compact&theme=radical&bg_color=0D1117&title_color=00ffb6&border_color=00ffb6&border_radius=15" width="40%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=praveen0309d&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=3" width="45%"/>
 </p>
 
 ---
 
-![banner2](https://github.com/user-attachments/assets/bf5c700e-270a-4569-a1af-101846dff87e)
+## 💎 **SKILL FLEX** 
+
+<div align="center">
+
+| **FRONTEND** | **BACKEND** | **DATABASES** | **AI/ML** | **DEVOPS** |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react" width="45"/> | <img src="https://skillicons.dev/icons?i=spring" width="45"/> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> | <img src="https://skillicons.dev/icons?i=py" width="45"/> | <img src="https://skillicons.dev/icons?i=docker" width="45"/> |
+| <img src="https://skillicons.dev/icons?i=js" width="45"/> | <img src="https://skillicons.dev/icons?i=java" width="45"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="45"/> | <img src="https://skillicons.dev/icons?i=pytorch" width="45"/> | <img src="https://skillicons.dev/icons?i=git" width="45"/> |
+| **React** • **JS** | **Spring Boot** • **Java** | **MySQL** • **MongoDB** | **Pandas** • **NLP** | **Docker** • **Git** |
+
+</div>
+
+---
+
+## 🏆 **THE WALL OF WINS** 
+
+<div align="center">
+
+| 🥇 | 🥈 | 🥉 |
+|:---:|:---:|:---:|
+| **1st PRIZE** | **2nd PRIZE** | **3rd PRIZE** |
+| Gojan School Expo | Velammal Project Expo | Velammal Engineering College |
+| **₹2,000** | **₹3,000** | Project Expo |
+| ⭐ Team Lead | ⭐ ClueCare | ⭐ Demo App |
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,6,8,12&height=3&width=800"/>
+</p>
+
+---
+
+## 🔥 **PROJECT FLEX** 
+
+```javascript
+const projects = [
+  {
+    name: "🏥 ClueCare",
+    prize: "🥈 2nd Prize - ₹3,000",
+    stack: "React + Flask + MongoDB + AI",
+    desc: "School/Community Health Platform",
+    link: "https://github.com/praveen0309d/clu_care"
+  },
+  {
+    name: "🎯 Velammal Demo",
+    prize: "🥉 3rd Prize - Project Expo",
+    stack: "React + Spring Boot + MySQL",
+    desc: "Full-stack college project"
+  },
+  {
+    name: "🏆 Gojan Project",
+    prize: "🥇 1st Prize - ₹2,000",
+    stack: "Full Stack + Team Leadership",
+    desc: "Championship win"
+  }
+];
+```
+
+---
+
+## 📚 **CERTIFICATION FLEX** 
+
+<div align="center">
+
+| **CERTIFICATION** | **ISSUER** | **STATUS** |
+|:---:|:---:|:---:|
+| **🤖 AI Chatbot Training** | Infosys Springboard | ✅ 40 Days |
+| **📊 Database Fundamentals** | MongoDB University | ✅ Certified |
+| **🎓 DSA & SE** | NPTEL (IIT) | ✅ Elite |
+| **🧠 AI Fundamentals** | IBM | ✅ Certified |
+
+</div>
+
+---
+
+## 🎵 **NOW PLAYING** 
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31uw3yzrhzsaj2cj3d2ek6orif5m&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=00ffb6&bar_color_cover=false" width="400"/>
+</p>
+
+---
+
+## 📊 **CONTRIBUTION GRAPH**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen0309d&bg_color=0D1117&color=00ffb6&line=ff79c6&point=00ffb6&area=true&hide_border=true&radius=15" width="95%"/>
+</p>
+
+---
+
+## 🌐 **24/7 CONNECT** 
+
+<div align="center">
+
+[![GMAIL](https://img.shields.io/badge/GMAIL-praveen002006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:praveen002006@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-Praveen_D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/praveen-d-52181a2ba/)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-praveend.vercel.app-00ffb6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black)](https://praveend.vercel.app/)
+[![GITHUB](https://img.shields.io/badge/GITHUB-praveen0309d-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/praveen0309d)
+
+</div>
+
+---
+
+## 🎯 **CURRENT STATUS**
+
+```diff
++ 🚀 Building something awesome
++ 📱 Learning advanced Spring Security
++ 🎮 Preparing for next hackathon
++ ☕ Running on coffee & code
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,8,12&height=120&section=footer&text=⚡%20PRAAVEEN%20⚡&fontSize=30&fontColor=00ffb6&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <i>🔥 If you can read this, I'm probably coding 🔥</i>
+  <br>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50"/>
+</p>
+
+---
+
+**✨ Last Updated:** *I code, I commit, I conquer* ✨
+```
