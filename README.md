@@ -8,7 +8,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=500&color=00FFB6&background=0D111700&center=true&vCenter=true&width=600&lines=PRE-FINAL+YEAR+%40+AI%26DS;FULL+STACK+DEV+%7C+REACT+%7C+SPRING;3x+PROJECT+EXPO+WINNER;7.8+CGPA+AND+CLIMBING" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=praveen0309d&label=👀%20PROFILE%20VIEWS&color=00ffb6&style=for-the-badge&base=0" width="200"/>
+<img src="https://komarev.com/ghpvc/?username=praveen0309d-profile&label=👀%20PROFILE%20VIEWS&color=00ffb6&style=for-the-badge" width="200"/>
+
+
 
 
 </div>
