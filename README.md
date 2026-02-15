@@ -189,4 +189,3 @@ Full Stack · Team Leadership
 
 ---
 
-**✨ Last Updated:** *I code, I commit, I conquer* ✨
