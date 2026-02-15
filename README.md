@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/praveen0309d/praveen0309d/blob/main/banner2.jpg" alt="banner" width="100%" style="border-radius: 20px; border: 2px solid #00ffb6; box-shadow: 0 0 30px rgba(0,255,182,0.3);"/>
+  <img src="https://imgs.search.brave.com/sPv93J3kNXb6nFyFkzxSXTHKa4J7EoTJqZI35Km8Q0c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJz/NW0xL3N0eWxlcy9i/YW5uZXJCYWNrZ3Jv/dW5kSW1hZ2VfNmk3/Y3N2eW9ia3VlMS5q/cGc_Zm9ybWF0PXBq/cGcmcz1jNTg5NGRm/NjQwMzE2NGM5NTRl/YTI0MjFhNmY5Mjcx/MGJiNTM2Zjhh" alt="banner" width="100%" style="border-radius: 20px; border: 2px solid #00ffb6; box-shadow: 0 0 30px rgba(0,255,182,0.3);"/>
 </p>
 
 <div align="center">
